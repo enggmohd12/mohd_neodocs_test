@@ -1,3 +1,9 @@
-# mohd_neodocs_test
+# Flutter Range Visualizer Assignment
 
-A new Flutter project.
+## Features
+- ✅ Standard library only (no packages)
+- ✅ ChangeNotifier + InheritedNotifier (no setState)
+- ✅ Clean Architecture (data/domain/presentation)
+- ✅ API integration with Bearer auth
+- ✅ Dynamic range rendering + pointer clamping
+
